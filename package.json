@@ -1,0 +1,19 @@
+{
+  "name": "dear_yan",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "wetest": "bin/trans.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "index"
+  },
+  "author": "lin",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "egg": "^2.23.0",
+    "xlsx": "^0.14.4"
+  }
+}
