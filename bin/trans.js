@@ -1,1 +1,3 @@
-require('../lib/index');
+#!/usr/bin/env node
+
+require('../lib/main');
