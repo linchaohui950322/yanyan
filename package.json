@@ -1,6 +1,6 @@
 {
   "name": "dear_yan",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "",
   "bin": {
     "wetest": "bin/trans.js"
